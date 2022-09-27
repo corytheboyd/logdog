@@ -1,6 +1,12 @@
 # LogDog
 
+`[cute_logo.png]`
+
+`[some dumb badges]`
+
 A JSON log explorer for locally running services.
+
+`[screenshots, because ffs it's a graphical tool, show us what it looks like]`
 
 ## Why
 
